@@ -17,7 +17,7 @@ the mods are currently supported (or working) are
 ## 📜 License
 
 - *Code* Licensed under: [MIT](https://choosealicense.com/licenses/mit/).
-- *Textures* Liscensed under: [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es)
+- *Textures* Licensed under: [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es)
 
 # Credits
 - Original Proyect [HERE](https://github.com/sirrobzeroone/3d_armor_gloves?tab=readme-ov-file) by sirrobzeroone and stujones11
