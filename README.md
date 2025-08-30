@@ -18,7 +18,9 @@ the mods are currently supported (or working) are
 
 - *Code* Licensed under: [MIT](https://choosealicense.com/licenses/mit/).
 - *Textures* Licensed under: [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es)
+- *OG textures used (mithril,crystal)* Licensed under: Copyright (C) 2017-2019 davidthecreator - CC-BY-SA 3.0
 
 # Credits
 - Original Proyect [HERE](https://github.com/sirrobzeroone/3d_armor_gloves?tab=readme-ov-file) by sirrobzeroone and stujones11
 - REDO and AE Version by BrianGruik15 [HERE](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/)
+- XTended Version by Geraos16 
