@@ -5,7 +5,7 @@
 
 This extension requires:
 - [3d_armor](https://content.luanti.org/packages/stu/3d_armor/)
-- [3d_armor_gloves_REDO](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/)
+- [3d_armor_gloves_REDO](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/) **is important to say i only added this as dependency because it wouldnt have sense to not have the previous gautlets**
   
 ## Currently supported mods
 the mods are currently supported (or working) are
