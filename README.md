@@ -16,7 +16,7 @@ the mods are currently supported (or working) are
 
 ## 📜 License
 
-- *Code* Licensed under: [MIT](https://choosealicense.com/licenses/mit/).
+- *Code* Licensed under: [MIT](https://choosealicense.com/licenses/mit/). 
 - *Textures* Licensed under: [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.es)
 - *OG textures used (mithril,crystal)* Licensed under: Copyright (C) 2017-2019 davidthecreator - CC-BY-SA 3.0
 
