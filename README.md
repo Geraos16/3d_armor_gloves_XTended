@@ -1,18 +1,19 @@
 # 3d_armor_gloves_XTended
-> This is an extension of core 3d_armor_gloves_REDO, expanded to support an few mods,trying to extend the use of the mod, theres no need of using all the mod it supports, just the ones you need, maybe more be added according to the use or requests
+> This is an extension of core 3d_armor_gloves_REDO, expanded to support an few mods,trying to extend the use of the mod, theres no need of using all the mod it supports, just the ones you need, maybe more be added according to the use or requests, it uses 3d_armor api to register new armors when one of the mods below is detected, 3d_armor_gloves_REDO is added as dependency because it would be weird if you only had 4 crafts of all the armors, its recomended to use Armor Expanded version and REDO version along with this one, to have an significant improvement on the experience and have all the armors (or at least the more used ones) with its respective gauntlets 
 
 # 🛠️ Dependencies
 
 This extension requires:
 - [3d_armor](https://content.luanti.org/packages/stu/3d_armor/)
-- [3d_armor_gloves_REDO](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/) **is important to say i only added this as dependency because it wouldnt have sense to not have the previous gautlets**
+- [3d_armor_gloves_REDO](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/)
+
   
 ## Currently supported mods
 the mods are currently supported (or working) are
-1. moreores
-2. nether
-3. ethereal
-4. obsidianstuff
+1. moreores = mithril gauntlets
+2. nether = nether gauntlets
+3. ethereal = crystal gauntlets
+4. obsidianstuff = obsidian gauntlets
 
 ## 📜 License
 
