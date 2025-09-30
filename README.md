@@ -23,5 +23,5 @@ the mods are currently supported (or working) are
 
 # Credits
 - Original Proyect [HERE](https://github.com/sirrobzeroone/3d_armor_gloves?tab=readme-ov-file) by sirrobzeroone and stujones11
-- REDO and AE Version by BrianGruik15 [HERE](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/)
+- REDO and AE Version by BrianGruik15 [HERE](https://content.luanti.org/packages/BryanGruik15/3d_armor_gloves_redo/) (code of this version is based on this mod code)
 - XTended Version by Geraos16 
